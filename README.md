@@ -22,6 +22,19 @@ This is a simple iOS app I built for my Winter 2025 Mobile App Development cours
 
 ---
 
+## 🧰 Tech Stack
+
+- **Language**: Swift
+- **Framework**: UIKit
+- **Architecture**: MVC
+- **Data Persistence**: PropertyListEncoder / PropertyListDecoder
+- **APIs Used**:
+  - OpenWeather13 via RapidAPI – for current weather and 5-day forecasts
+  - OpenWeather image icons – for weather visuals
+  - GeoBytes Autocomplete API – for city name search
+
+---
+
 ## 🛠 How It Works
 
 - Built using **UIKit** and storyboard layout
