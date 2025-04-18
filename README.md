@@ -1,5 +1,9 @@
 # 🌦️ Weather Forecast App
 
+![Swift](https://img.shields.io/badge/Swift-5.0-orange?style=for-the-badge&logo=swift)
+![Xcode](https://img.shields.io/badge/Xcode-UIKit-blue?style=for-the-badge&logo=xcode)
+![PropertyList](https://img.shields.io/badge/Persistence-PropertyList-yellowgreen?style=for-the-badge)
+
 This is a simple iOS app I built for my Winter 2025 Mobile App Development course (MAP523NSC). The app lets users search for cities and view current weather info along with a 5-day forecast using the OpenWeather API.
 
 ---
