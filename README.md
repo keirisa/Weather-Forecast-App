@@ -22,7 +22,7 @@ This is a simple iOS app I built for my Winter 2025 Mobile App Development cours
 
 | City List | Detail View | Search |
 |-----------|-------------|--------|
-| ![City List](https://via.placeholder.com/150x300.png?text=City+List) | ![Detail](https://via.placeholder.com/150x300.png?text=Weather+Detail) | ![Search](https://via.placeholder.com/150x300.png?text=Search+City) |
+| ![weather_cities](https://github.com/user-attachments/assets/4124d9ec-6f98-48e7-98dd-11f2b5f851ec) | ![weather_temp](https://github.com/user-attachments/assets/756a547f-7c10-4428-b0ed-5083b51f49f2) |![weather_search](https://github.com/user-attachments/assets/48e1b089-6011-42fc-becc-49ef8878bd86) |
 
 ---
 
