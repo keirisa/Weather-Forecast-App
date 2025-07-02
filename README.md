@@ -55,7 +55,7 @@ This is a simple iOS app I built for my Winter 2025 Mobile App Development cours
 Hi, I’m **Kate de Leon**, a Computer Programming student at Seneca Polytechnic.  
 This project was part of my coursework, and I really enjoyed building it from scratch.
 
-GitHub: [@yourusername](https://github.com/keirisa)
+GitHub: [@Kate de Leon](https://github.com/keirisa)
 
 ---
 
