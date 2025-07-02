@@ -50,14 +50,6 @@ This is a simple iOS app I built for my Winter 2025 Mobile App Development cours
 
 ---
 
-## 🚀 To Run It
-
-1. Clone the repo and open the project in Xcode
-2. Make sure to add your API keys to the relevant files (check `WeatherController.swift`)
-3. Run on a simulator or device
-
----
-
 ## 👩‍💻 About Me
 
 Hi, I’m **Kate de Leon**, a Computer Programming student at Seneca Polytechnic.  
